@@ -107,10 +107,7 @@ Threshold הוא Hyperparameter משום שהוא מוגדר מראש
 **תשובה:**  
 - Accuracy  
 - Confusion Matrix  
-- Precision  
-- Recall  
-- F1-score  
-- ROC-AUC  
+
 
 ---
 
